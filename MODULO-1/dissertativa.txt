@@ -1,1 +1,0 @@
-1. Para calcular qualquer resultado da tabuada do 9 basta pegar o multiplicando e subtrair 1 e em seguida somar com 10 menos o multiplicando. 
