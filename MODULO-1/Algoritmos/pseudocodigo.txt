@@ -1,0 +1,4 @@
+Insira o multiplicando
+Faça o multiplicando menos 1 
+Faça 10 menos o multiplicando 
+Mostre o resultado de (Multiplicando - 1) + (10 menos multiplicando)
