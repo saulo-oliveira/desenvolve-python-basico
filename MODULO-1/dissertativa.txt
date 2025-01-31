@@ -1,0 +1,1 @@
+1. Para calcular qualquer resultado da tabuada do 9 basta pegar o multiplicando e adicionar em uma simples fórmula, que é 9 x n = n-1 10-n, o 'n' corresponde ao multiplicando. Onde que o multiplicando menos 1(um) vezes 10 (dez) nos dará o numeral da casa da dezena e somar com 10 (dez) menos o multiplicando, assim obteremos o resultado final. 
